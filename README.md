@@ -4,7 +4,7 @@ A mount including an infrared ringlight for oberserving insects with GoPro Hero 
 <img src="https://github.com/user-attachments/assets/915e4ef3-4d58-4626-8bd0-8e82dc2dd7d4" width="400" height="500">
 
 
-This project is for my PhD research, where I try to elucidate the molecular mechanisms of behavioral manipulation in ants that are infected with the fungus Ophiocordyceps. We use GoPro’s to film the ants to analyze the behavior of ants, however, we had a lot of problems such as camera’s falling into the box, changing views, low resolution during dark phase and infrared lights that stopped working. Therefore, we wanted to standardize the way the ants were filmed making it possible to use computer software to measure the behavior.
+This project is for my PhD research, where I try to elucidate the molecular mechanisms of behavioral manipulation in ants that are infected with the fungus Ophiocordyceps. We use GoPro’s to analyze the behavior of ants, however, we had a lot of problems such as camera’s falling into the box, changing views, low resolution during dark phase and infrared lights that stopped working. Therefore, we wanted to standardize the way the ants were filmed making it possible to use computer software to measure the behavior.
 
 
 ## Main features
