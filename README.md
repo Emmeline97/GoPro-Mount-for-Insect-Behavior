@@ -1,5 +1,6 @@
-# Open Hardware Documentation Template
-An easy use folder structure and instructions for setting up a repository for open-source hardware
+# GoPro Mount for Insect Behavior Experiments
+A mount including an infrared ringlight for oberserving insects with GoPro Hero 6 camera's. The focus of this research is ants. 
+
 
 In this repository, we present a template, short instructions, and a folder structure for a repository for describing relatively small hardware projects.  
 The main goal of this work is to simplify starting such a repository at an early stage of the project and motivate team members to regularly update their documents in a structured way. 
