@@ -4,11 +4,9 @@ A mount including an infrared ringlight for oberserving insects with GoPro Hero 
 <img src="https://github.com/user-attachments/assets/915e4ef3-4d58-4626-8bd0-8e82dc2dd7d4" width="400" height="500">
 
 
-In this repository, we present a template, short instructions, and a folder structure for a repository for describing relatively small hardware projects.  
-The main goal of this work is to simplify starting such a repository at an early stage of the project and motivate team members to regularly update their documents in a structured way. 
-To keep it agile, filling in the necessary information for the first version repository should not take more than 10 minutes. 
+This project is for my PhD research, where I try to elucidate the molecular mechanisms of behavioral manipulation in ants that are infected with the fungus Ophiocordyceps. We use GoPro’s to film the ants to analyze the behavior, however, this was not standardized leading to problems such as camera’s falling into the box, changing views, low resolution during dark phase and infrared lights that stopped working.
 
-_Instructions to fill in this file are put in italic. Remove these when you are filling descriptions relevant to your project._
+To improve this, a new set up was designed with 2 components, an infrared ringlight and a mount that can be attached to the box. The advantage of the latter is that it allows you to move the box without changing the view. The mount exists of 2 3D printed clamps that can be tightened to the box with screws and nuts, and Plexiglas that has been laser cut and bended with heat afterwards. The infrared light was 3D printed, onto which an infrared LED strip was glued and soldered. To enable a computer to do the laborious task of counting ants, changes had to be made to the previous ‘nest tube’ and ‘feeding tubes’ as well, since these tubes were able roll around. Therefore, a feeding station that can hold the feeding tubes in place and a nest that can easily be inspected were 3D printed. The idea is that the bottom of these designs will be put in the box before the plaster is poured, which is used for humidity and to avoid flares in videos, so that these objects won’t be able to move. 
 
 _The introduction paragraph, right under the title, should explain the context of the project as well as why has it been initiated._
 
