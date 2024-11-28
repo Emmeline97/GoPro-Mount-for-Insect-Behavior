@@ -6,37 +6,13 @@ A mount including an infrared ringlight for oberserving insects with GoPro Hero 
 
 This project is for my PhD research, where I try to elucidate the molecular mechanisms of behavioral manipulation in ants that are infected with the fungus Ophiocordyceps. We use GoPro’s to film the ants to analyze the behavior of ants, however, we had a lot of problems such as camera’s falling into the box, changing views, low resolution during dark phase and infrared lights that stopped working. Therefore, we wanted to standardize the way the ants were filmed making it possible to use computer software to measure the behavior.
 
-_The introduction paragraph, right under the title, should explain the context of the project as well as why has it been initiated._
 
 ## Main features
-_This subsection is a very brief introduction to the context and key features of your project that could be interesting for a user in search of a solution_
 
 To overcome the above mentioned problems, a new set up was designed containing 2 components, an infrared ringlight and a mount that can be attached to the box. The advantage of the latter is that it allows you to move the box without changing the view. The mount exists of 2 3D printed clamps that can be tightened to the box with screws and nuts, and Plexiglas that has been laser cut and bended with heat afterwards. The infrared light was 3D printed, onto which an infrared LED strip was glued and soldered. To enable a computer to do the laborious task of counting ants, changes had to be made to the previous ‘nest tube’ and ‘feeding tubes’ as well, since these tubes were able roll around. Therefore, a feeding station that can hold the feeding tubes in place and a nest that can easily be inspected were 3D printed. The idea is that the bottom of these designs will be put in the box before the plaster is poured, which is used for humidity and to avoid flares in videos, so that these objects won’t be able to move. 
 
 
-The most important file in the repository is the README.md in the root folder of the reposity.
-The headers used in the current README file are the most essential to present. 
-Some optional headers are suggested in curly brackets (...). 
-Try to present only the main information for the viewer to get started. 
-Detailed updates or build instructions are better suited for the subfolders such as `./Docs` or `./Results`.
 
-Next to the README file, a basic folder structure is also presented in this repository. 
-Each subfolder contains a `_readme.md` file that explains the conventions and purpose of that folder for the (future) collaborators to keep it tidy.
-
-This template is adjusted to the typical needs of a hardware project made for research or education. 
-
-```
-.
-|--- Build 
-|--- Docs
-|--- Results
-|--- Software
-| LICENSE
-| README.md
-
-```
-
-The purpose of each subfolder is explained below:
 + Build: Contains all the (binary) design files that are needed for the hardware. Use subfolder for more complex assemblies.
 + Docs: Contains the documentation of the project: background information, sources, warnings, and build instructions. 
 + Results: For measurement or functional devices, it is good to report some results as a benchmark for others who try to replicate the project.
@@ -59,9 +35,10 @@ We will list some best practices and good examples from projects that have used 
 ## Team
 _Even though platforms such as github show a list of user accounts for contributors for a project or repository, the past contributors or external collaborators also deserve a place here_
 
-+ Project initiator: Sanli Faez @sanlifaez
++ Project initiator: Emmeline van Roosalen @Emmeline97
 + Contributors:
-	+ _add a list of main contributors_
+	+ [lili's protolab](https://www.uu.nl/en/research/lilis-proto-lab)  
+ 	+ [debekkerlab.com ](https://www.debekkerlab.com/)	 
 
 
 ## Get involved
