@@ -1,7 +1,7 @@
 # GoPro Mount for Insect Behavior Experiments
 A mount including an infrared ringlight for oberserving insects with GoPro Hero 6 camera's. The focus of this research is ants. 
 
-<img src="https://github.com/user-attachments/assets/915e4ef3-4d58-4626-8bd0-8e82dc2dd7d4" width="150" height="200">
+<img src="https://github.com/user-attachments/assets/915e4ef3-4d58-4626-8bd0-8e82dc2dd7d4" width="250" height="300">
 
 
 In this repository, we present a template, short instructions, and a folder structure for a repository for describing relatively small hardware projects.  
