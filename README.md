@@ -13,7 +13,7 @@ To overcome the above mentioned problems, a new set up was designed containing 2
 
 
 
-+ Build: Contains all the design files that are needed for the hardware. 
++ Build: Contains all the design files that are needed for the hardware (e.g. step and dxf files) 
 + Docs: Contains the documentation of the project: background information, sources, warnings, and build instructions. 
 + Results: For measurement or functional devices, it is good to report some results as a benchmark for others who try to replicate the project.
 + Software: For hardware projects that have an operating software or firmware, it is a good versioning practice to separate the software code from build instructions.
