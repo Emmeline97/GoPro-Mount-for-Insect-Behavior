@@ -1,5 +1,5 @@
 # GoPro Mount for Insect Behavior Experiments
-A mount including an infrared ringlight for oberserving insects with GoPro Hero 6 camera's.  
+A mount with an infrared ringlight for oberserving insects with GoPro Hero 6 camera's.  
 
 <img src="https://github.com/user-attachments/assets/915e4ef3-4d58-4626-8bd0-8e82dc2dd7d4" width="400" height="500">
 
@@ -15,17 +15,12 @@ To overcome the above mentioned problems, a new set up was designed containing 2
 
 + Build: Contains all the design files that are needed for the hardware (e.g. step and dxf files) 
 + Docs: Contains the documentation of the project: photos and Materials&Methods. 
-+ Results: For measurement or functional devices, it is good to report some results as a benchmark for others who try to replicate the project.
-+ Software: For hardware projects that have an operating software or firmware, it is a good versioning practice to separate the software code from build instructions.
 
 
-## Outcomes
-
-To be added.
 
 ## Team
 
-+ Project initiator: Emmeline van Roosalen @Emmeline97
++ Emmeline van Roosalen @Emmeline97
 + Contributors:
 	+ [lili's protolab](https://www.uu.nl/en/research/lilis-proto-lab)  
  	+ [debekkerlab.com ](https://www.debekkerlab.com/)	 
